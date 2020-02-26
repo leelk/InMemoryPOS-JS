@@ -1,0 +1,24 @@
+table tbody tr{
+    cursor: pointer;
+}
+
+table tbody tr td:first-child{
+    text-align: center;
+}
+
+table tbody tr td:last-child{
+    font-size: 20px;
+    text-align: center;
+}
+
+table tbody tr td:last-child:hover{
+    color: red;
+}
+
+.card-footer .pagination{
+    justify-content: center;
+}
+
+form .card-body{
+    margin-bottom: 18px;
+}
